@@ -19,4 +19,12 @@ body {
 .img-medium {
     height: 200px;
 }
-
+ div
+ {
+    background-color: grey;
+    border: 1px solid black;
+}
+h1
+{
+        color:blue;
+}
